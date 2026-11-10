@@ -200,6 +200,10 @@ Service listens on `:3000` by default; admin entry at `http://localhost:3000/adm
     </td>
   </tr>
   <tr>
+      <td width="33.33%" align="center">
+      <a href="https://www.krill-code.com/register?invite=LV6LTOYQFV"><img src="https://cdn.jsdelivr.net/gh/dqzboy/Images/picture/krill-ai.png?raw=true" alt="RackNerd" width="280" height="158"><br><strong>RackNerd</strong></a><br>
+      <sub> AI Model API Aggregation Relay Platform </sub>
+    </td>
     <td width="33.33%" align="center">
       <a href="https://docker-proxy-desc.vercel.app/racknerd.html"><img src="https://cdn.jsdelivr.net/gh/dqzboy/Images/dqzboy-proxy/Image_2025-07-07_16-14-49.png?raw=true" alt="RackNerd" width="280" height="158"><br><strong>RackNerd</strong></a><br>
       <sub>Overseas VPS for websites and Docker services</sub>
