@@ -201,7 +201,7 @@ Service listens on `:3000` by default; admin entry at `http://localhost:3000/adm
   </tr>
   <tr>
       <td width="33.33%" align="center">
-      <a href="https://www.krill-code.com/register?invite=LV6LTOYQFV"><img src="https://cdn.jsdelivr.net/gh/dqzboy/Images/picture/krill-ai.png?raw=true" alt="RackNerd" width="280" height="158"><br><strong>RackNerd</strong></a><br>
+      <a href="https://www.krill-code.com/register?invite=LV6LTOYQFV"><img src="https://cdn.jsdelivr.net/gh/dqzboy/Images/picture/krill-ai.png?raw=true" alt="AI Model API" width="280" height="158"><br><strong>AI</strong></a><br>
       <sub> AI Model API Aggregation Relay Platform </sub>
     </td>
     <td width="33.33%" align="center">

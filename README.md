@@ -204,7 +204,7 @@ npm run dev
   </tr>
   <tr>
     <td width="33.33%" align="center">
-      <a href="https://www.krill-code.com/register?invite=LV6LTOYQFV"><img src="https://cdn.jsdelivr.net/gh/dqzboy/Images/picture/krill-ai.png?raw=true" alt="RackNerd" width="280" height="158"><br><strong>RackNerd</strong></a><br>
+      <a href="https://www.krill-code.com/register?invite=LV6LTOYQFV"><img src="https://cdn.jsdelivr.net/gh/dqzboy/Images/picture/krill-ai.png?raw=true" alt="AI Model API" width="280" height="158"><br><strong>AI 聚合</strong></a><br>
       <sub> AI 模型API 聚合中继平台：订阅套餐与按量计费</sub>
     </td>
     <td width="33.33%" align="center">
